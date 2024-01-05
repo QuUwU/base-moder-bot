@@ -8,7 +8,7 @@ from aiogram.filters import Command
 from aiogram.types import Message, CallbackQuery
 from keyboard import SettingsKeyboard
 
-TOKEN = '6591341489:AAEI5N5uDF8IePhbAs3u0AIysh_vyLpQ5bE'  # Token obtained after creating a bot on @BotFather
+TOKEN = ''  # Token obtained after creating a bot on @BotFather
 bot = Bot(TOKEN)  # Bot instance
 router = Router()
 
